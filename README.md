@@ -7,10 +7,10 @@ Built with Python, pandas, matplotlib, and the [football-data.org](https://www.f
 ## Charts
 
 ### Standings
-![Standings](output/standings.png)
+![Standings](assets/standings.png)
 
 ### Top Scorers
-![Top Scorers](output/top_scorers.png)
+![Top Scorers](assets/top_scorers.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ Built with Python, pandas, matplotlib, and the [football-data.org](https://www.f
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOURUSERNAME/football-stats
+git clone https://github.com/aelbassiouni119/football-stats
 cd football-stats
 ```
 
